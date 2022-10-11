@@ -1,4 +1,4 @@
-/*let js = 'amazing';
+let js = 'amazing';
 //console.log(40 + 6 + 12);
 
 let firstName = 'Lucia';
@@ -47,7 +47,6 @@ console.log('19' - '13' + 17);
 console.log('123' < 57);
 console.log(5 + 6 + '4' + 9 - 4 - 2);
 
-
 let day = 'monday';
 
 if (day === 'monday') {
@@ -60,7 +59,6 @@ if (day === 'monday') {
 } else if (day === 'saturday' || day === 'sunday') {
   console.log(`Enjoy the weekend :D`);
 } else console.log(`It isn't a day.`);
-*/
 
 //Ternary operator
 const age = 24;
